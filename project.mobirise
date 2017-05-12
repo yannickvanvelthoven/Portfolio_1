@@ -130,6 +130,22 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#7c706b"
+            },
+            ".mbr-section-title": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "color": "#2b0680"
+            },
+            "SMALL": {
+              "color": "#8c8c8c",
+              "font-size": "48px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            }
+          },
           "_anchor": "form1-7",
           "_params": {
             "labelsColor": "#7c706b",
@@ -175,23 +191,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#7c706b"
-            },
-            ".mbr-section-title": {
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "color": "#2b0680"
-            },
-            "SMALL": {
-              "color": "#8c8c8c",
-              "font-size": "48px",
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         }
       ]
     },
@@ -297,6 +297,13 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "color": "#2b0680"
+            }
+          },
           "_anchor": "header1-j",
           "_params": {
             "parallax": true,
@@ -319,14 +326,7 @@
           },
           "title": "FULL SCREEN INTRO",
           "text": "Nice to meet you. I'm a graphic design student and I can help you taking your needs in design to another level.<br><br>I design purely out of need, I don't make 'pretty' pictures. Take a look at my most recent work, so we can get to know each other.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "color": "#2b0680"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -342,6 +342,11 @@
             "Theme"
           ],
           "_name": "gallery3",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -437,12 +442,7 @@
           },
           "_anchor": "gallery3-i",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "color": "#ffffff"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_inherit": "menu",
