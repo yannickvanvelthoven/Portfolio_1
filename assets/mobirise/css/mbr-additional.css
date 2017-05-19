@@ -8,6 +8,12 @@
 
 
 
+
+
+
+
+
+
 body,
 input,
 textarea,
@@ -490,6 +496,24 @@ h6,
 #ext_menu-6 .link[aria-expanded="true"],
 #ext_menu-6 .dropdown-item[aria-expanded="true"] {
   color: #c1c1c1!important;
+}
+#msg-box5-k P {
+  font-family: 'PT Serif', serif;
+}
+#msg-box5-m P {
+  font-family: 'PT Serif', serif;
+}
+#msg-box5-n P {
+  font-family: 'PT Serif', serif;
+}
+#msg-box5-o P {
+  font-family: 'PT Serif', serif;
+}
+#msg-box5-p P {
+  font-family: 'PT Serif', serif;
+}
+#msg-box5-q P {
+  font-family: 'PT Serif', serif;
 }
 
 #gallery3-i .mbr-gallery-item > div > span {
